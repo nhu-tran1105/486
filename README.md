@@ -1,5 +1,2 @@
-# fantastic-barnacle-devops
+# Devops
 Spring 2026 CIS 486. 
-
-
-edit. 
